@@ -1,4 +1,8 @@
-[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBicDQ3MWhkN2ViOHRobW15dm9iOHUwNGF1N2x6bHd5eHN6dTE3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.webp)](https://riveer.my.id/)
+<p align="center">
+  <a href="https://riveer.my.id/">
+    <img src="https://pa1.narvii.com/6314/88f7a1a4c79f123e4c133f93309de04c4872e85c_hq.gif" alt="MasterHead";">
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Hanafi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
@@ -11,8 +15,6 @@
 - 🌱 I’m currently learning **game development**
 
 - 👨‍💻 All of my projects are available at [https://riveer.my.id/](https://riveer.my.id/)
-
-- 📝 I regularly write articles on [https://riveer.my.id/](https://riveer.my.id/)
 
 - 💬 Ask me about **web & mobile development**
 
