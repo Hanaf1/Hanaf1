@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Hanafi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="gif" width="400" src="https://pa1.narvii.com/6314/88f7a1a4c79f123e4c133f93309de04c4872e85c_hq.gif" alt="MasterHead">
+<img align="right" alt="gif" width="400" src="https://pa1.narvii.com/6314/88f7a1a4c79f123e4c133f93309de04c4872e85c_hq.gif" style="border-radius: 5%;" alt="MasterHead">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanaf1&label=Profile%20views&color=0e75b6&style=flat" alt="hanaf1" /> </p>
 
