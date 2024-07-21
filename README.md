@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm Hanafi</h1>
 <h3 align="center">A passionate fullstack developer</h3>
-<img align="right" alt="gif" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanaf1&label=Profile%20views&color=0e75b6&style=flat" alt="hanaf1" /> </p>
 
