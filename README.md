@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **starnafi4@gmailcom**
 
-- 📄 Know about my experiences [https://riveer.my.id/](https://riveer.my.id/)
-
 - ⚡ Fun fact **I also anime lovers**
 
 <h3 align="left">Connect with me:</h3>
