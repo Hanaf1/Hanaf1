@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://riveer.my.id/](https://riveer.my.id/)
 
-- 💬 Ask me about **web & mobile development**
-
-- 📫 How to reach me **starnafi4@gmailcom**
+- 📫 How to reach me **starnafi4@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
