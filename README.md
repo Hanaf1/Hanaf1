@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanaf1&label=Profile%20views&color=0e75b6&style=flat" alt="hanaf1" /> </p>
 
-- 🔭 I’m currently student on **University Muria kudus**
+- 🔭 I’m currently student on **University**
 
-- 🌱 I’m currently learning **game development**
+- 🌱 I’m currently learning **mobile development**
 
 - 👨‍💻 All of my projects are available at [https://riveer.my.id/](https://riveer.my.id/)
 
