@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **mobile development**
 
-- 👨‍💻 All of my projects are available at [https://riveer.my.id/](https://riveer.my.id/)
-
 - 📫 How to reach me **starnafi4@gmail.com**
 
 
