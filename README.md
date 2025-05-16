@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,figma,flutter,php,laravel,tailwind,bootstrap,androidstudio,net,python,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,figma,dart,flutter,php,laravel,tailwind,bootstrap,androidstudio,net,python,linux&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanaf1&show_icons=true&locale=en&layout=compact" alt="hanaf1" /></p>
 
